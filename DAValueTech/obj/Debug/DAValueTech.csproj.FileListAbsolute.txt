@@ -1,0 +1,6 @@
+D:\Proyectos\ValueTech\DAValueTech\bin\Debug\DAValueTech.dll
+D:\Proyectos\ValueTech\DAValueTech\bin\Debug\DAValueTech.pdb
+D:\Proyectos\ValueTech\DAValueTech\obj\Debug\DAValueTech.csproj.AssemblyReference.cache
+D:\Proyectos\ValueTech\DAValueTech\obj\Debug\DAValueTech.csproj.CoreCompileInputs.cache
+D:\Proyectos\ValueTech\DAValueTech\obj\Debug\DAValueTech.dll
+D:\Proyectos\ValueTech\DAValueTech\obj\Debug\DAValueTech.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "coczYa4Pd8VXuDM8UqAI3Vrkd0NvRhXtCrSQjh4It4+isfZ0qzvcYZWu8aMkmhUz/j2O7kctntVZbIttV4MBxA==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\ValueTech\\ValueTechPruebaTecnica\\ValueTechPruebaTecnica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbaha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

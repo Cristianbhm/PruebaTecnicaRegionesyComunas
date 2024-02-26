@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "ValueTech";
+}
+
+
+    <div class="container">
+    <div class="text-center">
+        <h1 class="display-4">Regiones y Comunas</h1>
+    </div>
+        <div class="row">
+            <div class="col-4">
+                <label for="cboRegiones" class="form-label">Regiones</label>
+                <select class="form-select form-select-sm" aria-label=".form-select-sm example" id="cboRegiones">
+                    <option selected>Seleccione Región...</option>
+                </select>
+            </div>
+            <div class="col-4">
+            <label for="cboComunas" class="form-label">Comunas</label>
+            <select class="form-select form-select-sm" aria-label=".form-select-sm example" id="cboComunas">
+                <option selected>Seleccione Comunas...</option>
+            </select>
+            </div>
+            <div class="col-4">
+            <label for="txtSuperficie" class="form-label">Superficie (km<sup>2</sup>)</label>
+            <input type="text" class="form-control" id="txtSuperficie"/>
+            <label for="txtPoblacion" class="form-label">Población</label>
+            <input type="text" class="form-control" id="txtPoblacion" />
+            <label for="txtDensidad" class="form-label">Densidad (hab./km<sup>2</sup>)</label>
+            <input type="text" class="form-control" id="txtDensidad"/>
+            <br>
+            <button class="btn btn-success" id="btnActualizaDatos">Actualizar</button>
+            </div>
+        </div>
+    </div>
+
